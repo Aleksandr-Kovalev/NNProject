@@ -1,0 +1,354 @@
+200 - 20 sig 40 ep
+20-05-26 13:49:40
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.97      0.98       543
+    Malicous       0.59      0.87      0.70        30
+
+   micro avg       0.96      0.96      0.96       573
+   macro avg       0.79      0.92      0.84       573
+weighted avg       0.97      0.96      0.96       573
+
+
+2019-05-26 13:51:04
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       525
+    Malicous       0.88      0.88      0.88        48
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.93      0.93      0.93       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 13:52:32
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       539
+    Malicous       0.74      0.91      0.82        34
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.87      0.95      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 13:53:52
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       538
+    Malicous       0.86      0.86      0.86        35
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.92      0.92      0.92       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 13:55:07
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.98      0.99       543
+    Malicous       0.72      0.97      0.83        30
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.86      0.97      0.91       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 13:56:28
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       537
+    Malicous       0.81      0.81      0.81        36
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.90      0.90      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 13:57:52
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.98      0.99       536
+    Malicous       0.76      0.95      0.84        37
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.88      0.96      0.92       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 13:59:15
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       535
+    Malicous       0.92      0.92      0.92        38
+
+   micro avg       0.99      0.99      0.99       573
+   macro avg       0.96      0.96      0.96       573
+weighted avg       0.99      0.99      0.99       573
+
+
+2019-05-26 14:00:36
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.98       532
+    Malicous       0.75      0.88      0.81        41
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.87      0.93      0.90       573
+weighted avg       0.97      0.97      0.97       573
+
+
+2019-05-26 14:01:53
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.95      0.97       543
+    Malicous       0.53      0.97      0.68        30
+
+   micro avg       0.95      0.95      0.95       573
+   macro avg       0.76      0.96      0.83       573
+weighted avg       0.97      0.95      0.96       573
+
+
+2019-05-26 14:03:13
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.98      0.99       541
+    Malicous       0.70      0.94      0.80        32
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.85      0.96      0.89       573
+weighted avg       0.98      0.97      0.98       573
+
+
+2019-05-26 14:04:34
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       533
+    Malicous       0.78      0.88      0.82        40
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.88      0.93      0.90       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-05-26 14:05:59
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       540
+    Malicous       0.75      0.91      0.82        33
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.87      0.95      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 14:07:22
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.96      0.98       535
+    Malicous       0.62      0.84      0.71        38
+
+   micro avg       0.95      0.95      0.95       573
+   macro avg       0.80      0.90      0.84       573
+weighted avg       0.96      0.95      0.96       573
+
+
+2019-05-26 14:08:44
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.98      0.99       543
+    Malicous       0.71      0.97      0.82        30
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.85      0.97      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 14:10:06
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.98      0.99       546
+    Malicous       0.67      0.96      0.79        27
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.83      0.97      0.89       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 14:11:30
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       544
+    Malicous       0.68      0.86      0.76        29
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.83      0.92      0.87       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-05-26 14:13:02
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       544
+    Malicous       0.74      0.90      0.81        29
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.87      0.94      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 14:14:31
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       547
+    Malicous       0.66      0.81      0.72        26
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.82      0.89      0.85       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-05-26 14:15:52
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.96      0.98       539
+    Malicous       0.64      1.00      0.78        34
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.82      0.98      0.88       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-05-26 14:17:18
+              precision    recall  f1-score   support
+
+      Benign       0.98      0.97      0.98       532
+    Malicous       0.69      0.80      0.74        41
+
+   micro avg       0.96      0.96      0.96       573
+   macro avg       0.84      0.89      0.86       573
+weighted avg       0.96      0.96      0.96       573
+
+
+2019-05-26 14:18:47
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       540
+    Malicous       0.81      0.88      0.84        33
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.90      0.93      0.92       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 14:20:11
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.98      0.99       542
+    Malicous       0.69      0.94      0.79        31
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.84      0.96      0.89       573
+weighted avg       0.98      0.97      0.98       573
+
+
+2019-05-26 14:21:39
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.97      0.98       532
+    Malicous       0.71      0.83      0.76        41
+
+   micro avg       0.96      0.96      0.96       573
+   macro avg       0.85      0.90      0.87       573
+weighted avg       0.97      0.96      0.96       573
+
+
+2019-05-26 14:23:05
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.99      0.99       543
+    Malicous       0.78      0.93      0.85        30
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.89      0.96      0.92       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 14:24:29
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       535
+    Malicous       0.80      0.87      0.84        38
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.90      0.93      0.91       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 14:25:55
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.97      0.98       546
+    Malicous       0.62      0.89      0.73        27
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.80      0.93      0.86       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-05-26 14:27:22
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.97      0.98       540
+    Malicous       0.64      0.82      0.72        33
+
+   micro avg       0.96      0.96      0.96       573
+   macro avg       0.82      0.90      0.85       573
+weighted avg       0.97      0.96      0.97       573
+
+
+2019-05-26 14:28:49
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       544
+    Malicous       0.74      0.90      0.81        29
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.87      0.94      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-05-26 14:30:21
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       541
+    Malicous       0.88      0.91      0.89        32
+
+   micro avg       0.99      0.99      0.99       573
+   macro avg       0.94      0.95      0.94       573
+weighted avg       0.99      0.99      0.99       573
+
+
+***end***
+
+***end***
+
+***end***
+
+***end***
+
+***end***
+
+***end***
+
+***end***
+
+***end***
+
+***end***
+
+***end***
+
+***end***
+
+***end***

@@ -1,0 +1,330 @@
+
+2019-06-12 03:25:29 - Random Seed 750861
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.98       529
+    Malicous       0.76      0.86      0.81        44
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.87      0.92      0.90       573
+weighted avg       0.97      0.97      0.97       573
+
+
+2019-06-12 03:35:41 - Random Seed 39838
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       537
+    Malicous       0.76      0.86      0.81        36
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.87      0.92      0.90       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-06-12 03:45:55 - Random Seed 247558
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       536
+    Malicous       0.81      0.92      0.86        37
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.90      0.95      0.93       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 03:56:02 - Random Seed 907854
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.96      0.98       538
+    Malicous       0.61      0.89      0.72        35
+
+   micro avg       0.96      0.96      0.96       573
+   macro avg       0.80      0.92      0.85       573
+weighted avg       0.97      0.96      0.96       573
+
+
+2019-06-12 04:06:17 - Random Seed 964472
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.98      0.99       552
+    Malicous       0.63      0.90      0.75        21
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.81      0.94      0.87       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 04:16:46 - Random Seed 2010
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       538
+    Malicous       0.82      0.91      0.86        35
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.91      0.95      0.93       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 04:27:10 - Random Seed 53693
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       537
+    Malicous       0.84      0.89      0.86        36
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.92      0.94      0.93       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 04:37:14 - Random Seed 931879
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.98       536
+    Malicous       0.72      0.92      0.81        37
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.86      0.95      0.90       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-06-12 04:47:16 - Random Seed 467633
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.97      0.98       541
+    Malicous       0.67      0.88      0.76        32
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.83      0.92      0.87       573
+weighted avg       0.97      0.97      0.97       573
+
+
+2019-06-12 04:57:57 - Random Seed 90893
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       542
+    Malicous       0.81      0.84      0.83        31
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.90      0.91      0.91       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 05:08:46 - Random Seed 424525
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.97      0.98       538
+    Malicous       0.63      0.89      0.74        35
+
+   micro avg       0.96      0.96      0.96       573
+   macro avg       0.81      0.93      0.86       573
+weighted avg       0.97      0.96      0.96       573
+
+
+2019-06-12 05:19:38 - Random Seed 811274
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       534
+    Malicous       0.85      0.85      0.85        39
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.92      0.92      0.92       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 05:31:12 - Random Seed 78437
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       539
+    Malicous       0.74      0.85      0.79        34
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.87      0.92      0.89       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-06-12 06:01:51 - Random Seed 186037
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.98      0.99       537
+    Malicous       0.79      0.94      0.86        36
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.89      0.96      0.93       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 06:11:39 - Random Seed 167511
+              precision    recall  f1-score   support
+
+      Benign       0.99      1.00      0.99       542
+    Malicous       0.93      0.87      0.90        31
+
+   micro avg       0.99      0.99      0.99       573
+   macro avg       0.96      0.93      0.95       573
+weighted avg       0.99      0.99      0.99       573
+
+
+2019-06-12 06:21:30 - Random Seed 310148
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       535
+    Malicous       0.79      0.79      0.79        38
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.89      0.89      0.89       573
+weighted avg       0.97      0.97      0.97       573
+
+
+2019-06-12 06:31:27 - Random Seed 35516
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       528
+    Malicous       0.84      0.84      0.84        45
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.92      0.92      0.92       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 06:41:24 - Random Seed 230932
+              precision    recall  f1-score   support
+
+      Benign       0.98      0.99      0.99       532
+    Malicous       0.82      0.80      0.81        41
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.90      0.90      0.90       573
+weighted avg       0.97      0.97      0.97       573
+
+
+2019-06-12 06:51:00 - Random Seed 127294
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       541
+    Malicous       0.71      0.91      0.79        32
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.85      0.94      0.89       573
+weighted avg       0.98      0.97      0.98       573
+
+
+2019-06-12 07:01:08 - Random Seed 518731
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.97      0.98       540
+    Malicous       0.67      0.91      0.77        33
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.83      0.94      0.88       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-06-12 07:11:37 - Random Seed 847341
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       536
+    Malicous       0.76      0.86      0.81        37
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.88      0.92      0.90       573
+weighted avg       0.98      0.97      0.97       573
+
+
+2019-06-12 07:21:38 - Random Seed 909730
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       537
+    Malicous       0.79      0.83      0.81        36
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.89      0.91      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 07:31:16 - Random Seed 349750
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.99      0.99       543
+    Malicous       0.78      0.93      0.85        30
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.89      0.96      0.92       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 07:41:30 - Random Seed 342383
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       547
+    Malicous       0.74      0.88      0.81        26
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.87      0.93      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 07:51:56 - Random Seed 361960
+              precision    recall  f1-score   support
+
+      Benign       1.00      0.99      0.99       542
+    Malicous       0.85      0.94      0.89        31
+
+   micro avg       0.99      0.99      0.99       573
+   macro avg       0.92      0.96      0.94       573
+weighted avg       0.99      0.99      0.99       573
+
+
+2019-06-12 08:02:09 - Random Seed 930966
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.98       538
+    Malicous       0.68      0.80      0.74        35
+
+   micro avg       0.97      0.97      0.97       573
+   macro avg       0.83      0.89      0.86       573
+weighted avg       0.97      0.97      0.97       573
+
+
+2019-06-12 08:12:32 - Random Seed 699095
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       533
+    Malicous       0.82      0.90      0.86        40
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.91      0.94      0.92       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 08:22:21 - Random Seed 638066
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       541
+    Malicous       0.79      0.84      0.82        32
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.89      0.92      0.90       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 08:32:14 - Random Seed 590302
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.98      0.99       544
+    Malicous       0.74      0.86      0.79        29
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.86      0.92      0.89       573
+weighted avg       0.98      0.98      0.98       573
+
+
+2019-06-12 08:42:25 - Random Seed 432919
+              precision    recall  f1-score   support
+
+      Benign       0.99      0.99      0.99       536
+    Malicous       0.82      0.84      0.83        37
+
+   micro avg       0.98      0.98      0.98       573
+   macro avg       0.90      0.91      0.91       573
+weighted avg       0.98      0.98      0.98       573
+
